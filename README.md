@@ -1,5 +1,7 @@
 # movie
+
 ajax-movie
 
 # start
-npm start
+
+npm start 1
